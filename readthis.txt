@@ -1,0 +1,4 @@
+When first downloading this go into your     git clone [repository_url]
+
+
+Please first thing you do when running this is use '$git pull' 
